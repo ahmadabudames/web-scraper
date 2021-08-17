@@ -8,7 +8,7 @@ def test_citations_needed_count():
 
     assert actual==expected
 
-    
+     
 
 def test_citations_needed_report():
 
